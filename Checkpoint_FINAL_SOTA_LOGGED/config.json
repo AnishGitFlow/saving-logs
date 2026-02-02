@@ -1,0 +1,34 @@
+{
+  "ROOT": "D:\\Anish\\Research\\UrbanSound8k",
+  "AUDIO": "D:\\Anish\\Research\\UrbanSound8k\\audio",
+  "META": "D:\\Anish\\Research\\UrbanSound8k\\metadata\\UrbanSound8K.csv",
+  "OUT": "Checkpoint_FINAL_SOTA_LOGGED",
+  "SR": 22050,
+  "DUR": 4.0,
+  "MEL_BINS": [
+    64,
+    128
+  ],
+  "N_FFT": 1024,
+  "HOP": 256,
+  "BATCH": 48,
+  "EPOCHS": 50,
+  "LR": 0.001,
+  "WORKERS": 4,
+  "DEVICE": "cuda",
+  "SEED": 42,
+  "PATIENCE": 6,
+  "N_CLASSES": 10,
+  "CLASS_NAMES": [
+    "air_conditioner",
+    "car_horn",
+    "children_playing",
+    "dog_bark",
+    "drilling",
+    "engine_idling",
+    "gun_shot",
+    "jackhammer",
+    "siren",
+    "street_music"
+  ]
+}

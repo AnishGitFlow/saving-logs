@@ -1,0 +1,75 @@
+{
+  "air_conditioner": {
+    "precision": 0.40789473684210525,
+    "recall": 0.31,
+    "f1-score": 0.3522727272727273,
+    "support": 100.0
+  },
+  "car_horn": {
+    "precision": 0.75,
+    "recall": 0.75,
+    "f1-score": 0.75,
+    "support": 28.0
+  },
+  "children_playing": {
+    "precision": 0.7844827586206896,
+    "recall": 0.91,
+    "f1-score": 0.8425925925925926,
+    "support": 100.0
+  },
+  "dog_bark": {
+    "precision": 0.8723404255319149,
+    "recall": 0.82,
+    "f1-score": 0.845360824742268,
+    "support": 100.0
+  },
+  "drilling": {
+    "precision": 0.8425925925925926,
+    "recall": 0.91,
+    "f1-score": 0.875,
+    "support": 100.0
+  },
+  "engine_idling": {
+    "precision": 0.8688524590163934,
+    "recall": 0.4953271028037383,
+    "f1-score": 0.6309523809523809,
+    "support": 107.0
+  },
+  "gun_shot": {
+    "precision": 0.9361702127659575,
+    "recall": 0.9565217391304348,
+    "f1-score": 0.946236559139785,
+    "support": 46.0
+  },
+  "jackhammer": {
+    "precision": 0.39622641509433965,
+    "recall": 0.6176470588235294,
+    "f1-score": 0.4827586206896552,
+    "support": 68.0
+  },
+  "siren": {
+    "precision": 0.6382978723404256,
+    "recall": 0.8108108108108109,
+    "f1-score": 0.7142857142857143,
+    "support": 74.0
+  },
+  "street_music": {
+    "precision": 0.8709677419354839,
+    "recall": 0.81,
+    "f1-score": 0.8393782383419689,
+    "support": 100.0
+  },
+  "accuracy": 0.724179829890644,
+  "macro avg": {
+    "precision": 0.7367825214739903,
+    "recall": 0.7390306711568513,
+    "f1-score": 0.7278837658017092,
+    "support": 823.0
+  },
+  "weighted avg": {
+    "precision": 0.7400198143789469,
+    "recall": 0.724179829890644,
+    "f1-score": 0.7207581456152248,
+    "support": 823.0
+  }
+}
